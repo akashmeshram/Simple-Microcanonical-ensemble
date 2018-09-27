@@ -6,15 +6,15 @@ The file [simulate.cpp](simulate.cpp) will do a simple molecular dynamics simula
 
 ## Requirements
 * C++ compiler 
-* [mol.cpp](mol.cpp) - *For molecule*
+* [mol.cpp](mol.cpp) - *For molecules*
 * [vec.cpp](vec.cpp) - *For vectors*
 
 ## Configuration
-* rCut 
-* detaT
-* stepAvg
-* density
-* temperature
+* rCut - *Cut off distance for LJ potential*
+* detaT - *Time step*
+* stepAvg - *Average time for showing result*
+* density - *Density of system*
+* temperature - *Temperature of system*
 
 ## Built With
 * [C++](https://isocpp.org/)
