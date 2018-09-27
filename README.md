@@ -10,11 +10,11 @@ The file [simulate.cpp](simulate.cpp) will do a simple molecular dynamics simula
 * [vec.cpp](vec.cpp) - *For vectors*
 
 ## Configuration
-* rCut - *Cut off distance for LJ potential*
-* detaT - *Time step*
-* stepAvg - *Average time for showing result*
-* density - *Density of system*
-* temperature - *Temperature of system*
+* **rCut** - *Cut off distance for LJ potential*
+* **detaT** - *Time step*
+* **stepAvg** - *Average time for showing result*
+* **density** - *Density of system*
+* **temperature** - *Temperature of system*
 
 ## Built With
 * [C++](https://isocpp.org/)
