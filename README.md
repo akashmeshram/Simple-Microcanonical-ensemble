@@ -9,17 +9,9 @@ This program will do a simple molecular dynamics simulation of LJ Potential gas.
 
 ## Configuration
 ```
-rCut
-```
-```
-detaT
-```
-```
-stepAvg
-```
-```
-density
-```
-```
-temperature
+*rCut
+*detaT
+*stepAvg
+*density
+*temperature
 ```
