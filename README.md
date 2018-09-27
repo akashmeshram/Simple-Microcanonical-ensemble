@@ -3,3 +3,23 @@ A microcanonical ensemble is the statistical ensemble that is used to represent 
 
 ## Getting Started
 This program will do a simple molecular dynamics simulation of LJ Potential gas.
+
+## Requirements
+* C++ compiler 
+
+## Configuration
+```
+rCut
+```
+```
+detaT
+```
+```
+stepAvg
+```
+```
+density
+```
+```
+temperature
+```
